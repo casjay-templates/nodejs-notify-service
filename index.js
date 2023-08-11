@@ -18,7 +18,7 @@ const publicVapidKey =
 const privateVapidKey = "3KzvKasA2SoCxsp0iIG_o9B0Ozvl1XDwI63JRKNIWBM";
 
 webpush.setVapidDetails(
-  "mailto:notify-admin@casjaysdev.com",
+  "mailto:notify-admin@casjaysdev.pro",
   publicVapidKey,
   privateVapidKey
 );
